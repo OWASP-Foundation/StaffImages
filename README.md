@@ -3,6 +3,7 @@
   <img src="https://github.com/OWASP-Foundation/StaffImages/blob/master/dawn_150_bw.jpg?raw=true" width="150px;"/>
   <img src="https://github.com/OWASP-Foundation/StaffImages/blob/master/dawn_150_c.jpg?raw=true" width="150px;"/>
   <img src="https://github.com/OWASP-Foundation/StaffImages/blob/master/dawn_150_s.jpg?raw=true" width="150px;"/>
+  <img src="https://github.com/OWASP-Foundation/StaffImages/blob/master/dawn_150_wiki.png?raw=true" width="150px;"/>
   <img src="https://github.com/OWASP-Foundation/StaffImages/blob/master/emily_150_bw.jpg?raw=true" width="150px;"/>
   <img src="https://github.com/OWASP-Foundation/StaffImages/blob/master/emily_150_c.jpg?raw=true" width="150px;"/>
   <img src="https://github.com/OWASP-Foundation/StaffImages/blob/master/emily_150_s.jpg?raw=true" width="150px;"/>
